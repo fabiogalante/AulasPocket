@@ -13,6 +13,9 @@ namespace Pocket1
         {
             //
 
+
+            string a;
+
             //
         }
     }
